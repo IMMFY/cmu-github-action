@@ -1,1 +1,1 @@
-# cmu-github-action
+# github-action
